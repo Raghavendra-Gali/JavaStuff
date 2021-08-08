@@ -1,0 +1,7 @@
+/home/galivs/Documents/RGLearns/kafka-connectors/my-source-connector/src/main/java/com/sampleKconnectors/examples/MySourceTask.java
+/home/galivs/Documents/RGLearns/kafka-connectors/my-source-connector/src/main/java/com/sampleKconnectors/examples/MySourceConnector.java
+/home/galivs/Documents/RGLearns/kafka-connectors/my-source-connector/src/main/java/com/sampleKconnectors/examples/MySinkConnectorConfig.java
+/home/galivs/Documents/RGLearns/kafka-connectors/my-source-connector/src/main/java/com/sampleKconnectors/examples/MySourceConnectorConfig.java
+/home/galivs/Documents/RGLearns/kafka-connectors/my-source-connector/src/main/java/com/sampleKconnectors/examples/MySinkTask.java
+/home/galivs/Documents/RGLearns/kafka-connectors/my-source-connector/src/main/java/com/sampleKconnectors/examples/MySinkConnector.java
+/home/galivs/Documents/RGLearns/kafka-connectors/my-source-connector/src/main/java/com/sampleKconnectors/examples/VersionUtil.java

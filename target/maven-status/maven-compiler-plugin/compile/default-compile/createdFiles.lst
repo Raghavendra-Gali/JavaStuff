@@ -1,0 +1,7 @@
+com/sampleKconnectors/examples/MySourceConnector.class
+com/sampleKconnectors/examples/VersionUtil.class
+com/sampleKconnectors/examples/MySinkConnectorConfig.class
+com/sampleKconnectors/examples/MySinkTask.class
+com/sampleKconnectors/examples/MySinkConnector.class
+com/sampleKconnectors/examples/MySourceTask.class
+com/sampleKconnectors/examples/MySourceConnectorConfig.class
